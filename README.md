@@ -46,3 +46,8 @@ Part 4:
 2. Run the start Analog Input. 
 
 # Test Results 
+Part 1: 
+
+Part 2: 
+
+Part 3: 
