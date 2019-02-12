@@ -1,5 +1,5 @@
 # Lab-3-Circuit-Analysis
-# By: Courtney Conklin, Kennedy Krieg, Payton Sullentrop 
+# By: Courtney Conklin, Kennedy Krieg, Payton Suellentrop 
 # Summary 
 For this lab, the first goal is to use Partsim, a simulation software, to verify Kirchhoff's voltage and Kirchhoff's current law. The online software allowed us to create the given circuits that were built on the breadboards in lab on the software  and compare the theorectical current and voltageto the measured current and voltage. The second objective for this lab is to apply the superposition and Thevenin's theorems to anaylize different electrical circuits while also confirming the validity of these theorems. 
 # Materials
@@ -36,3 +36,10 @@ Part 2: Parallel Circuit
 1. Look at the simulation software and determine current I1-I7 from the circuit. 
 2. Use the multimeter to measure the voltage drop across resistors R1-R8 and record in a table. 
 3. Use the circuit in the simulation softwaree to determine the simulated voltage drop across each resistor. 
+
+Part 3: 
+1. Determine the correct resistance to place in series with a sensor that ranges from 0-19.650 kOhms and a 14.1 V input voltage to yield a voltage output between 0-5 V across the sensor. 
+
+Part 4: 
+1. Login to TinkerCAD Circuit. 
+2. Run the start Analog Input. 
