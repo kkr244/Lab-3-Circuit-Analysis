@@ -38,10 +38,10 @@ Part 2: Parallel Circuit
 2. Use the multimeter to measure the voltage drop across resistors R1-R8 and record in a table. 
 3. Use the circuit in the simulation softwaree to determine the simulated voltage drop across each resistor. 
 
-Part 3: 
+Part 3: Potentiometer
 1. Determine the correct resistance to place in series with a sensor that ranges from 0-19.650 kOhms and a 14.1 V input voltage to yield a voltage output between 0-5 V across the sensor. 
 
-Part 4: 
+Part 4: TinkerCAD Ciruits 
 1. Login to TinkerCAD Circuit. 
 2. Run the start Analog Input. 
 
