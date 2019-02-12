@@ -16,13 +16,14 @@ Part 2: Parallel Circuit
 1. Build the specified circuit from the lab manual on the bread board using the correct voltage and resistors. 
 2. Repeat by building the circuit in the simulation software. 
 
-Part 3: 
+Part 3: Potentiometer
 1. Do the following calculations to answer the following question: Given a sensor that ranges from 0-19.650K Ohms and a 14.1V input voltage, determine the correct resistance (R?) to place in series with the sensor to yield a voltage output between 0-5V across the sensor.
 
-Part 4: 
+Part 4: TinkerCAD Cirucits 
 1. Login to TinkerCAD Circuits 
 2. Start a simulation and in the components drop down part, swtich to starts, then Arduino, and then select blink. 
 3. Find and run the starter Analog Input. 
+
 # Test Equipment 
 - Fluke, the multimeter, to measure the voltage drop across each resistor in the parallel circuit and series circuit. The multimeter was not used to measure current to prevent more fuses from being blown, but the current was measured on the simulation software. 
 # Test Procedure 
